@@ -1,0 +1,7 @@
+C:\Users\mertc\source\repos\Exp5\Exp5\bin\Debug\Exp5.exe.config
+C:\Users\mertc\source\repos\Exp5\Exp5\bin\Debug\Exp5.exe
+C:\Users\mertc\source\repos\Exp5\Exp5\bin\Debug\Exp5.pdb
+C:\Users\mertc\source\repos\Exp5\Exp5\obj\Debug\Exp5.csprojResolveAssemblyReference.cache
+C:\Users\mertc\source\repos\Exp5\Exp5\obj\Debug\Exp5.csproj.CoreCompileInputs.cache
+C:\Users\mertc\source\repos\Exp5\Exp5\obj\Debug\Exp5.exe
+C:\Users\mertc\source\repos\Exp5\Exp5\obj\Debug\Exp5.pdb

@@ -1,0 +1,6 @@
+C:\Users\mertc\source\repos\Exp2\Exp2\bin\Debug\Exp2.exe.config
+C:\Users\mertc\source\repos\Exp2\Exp2\bin\Debug\Exp2.exe
+C:\Users\mertc\source\repos\Exp2\Exp2\bin\Debug\Exp2.pdb
+C:\Users\mertc\source\repos\Exp2\Exp2\obj\Debug\Exp2.csproj.CoreCompileInputs.cache
+C:\Users\mertc\source\repos\Exp2\Exp2\obj\Debug\Exp2.exe
+C:\Users\mertc\source\repos\Exp2\Exp2\obj\Debug\Exp2.pdb
