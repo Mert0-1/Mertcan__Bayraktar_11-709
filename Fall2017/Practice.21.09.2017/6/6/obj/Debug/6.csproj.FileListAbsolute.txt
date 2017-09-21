@@ -1,0 +1,6 @@
+C:\Users\mertc\source\repos\6\6\bin\Debug\6.exe.config
+C:\Users\mertc\source\repos\6\6\bin\Debug\6.exe
+C:\Users\mertc\source\repos\6\6\bin\Debug\6.pdb
+C:\Users\mertc\source\repos\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\Users\mertc\source\repos\6\6\obj\Debug\6.exe
+C:\Users\mertc\source\repos\6\6\obj\Debug\6.pdb
