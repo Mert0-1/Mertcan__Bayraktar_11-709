@@ -1,0 +1,7 @@
+C:\Users\mertc\source\repos\Hatalar-Expr10\Hatalar-Expr10\bin\Debug\Hatalar-Expr10.exe.config
+C:\Users\mertc\source\repos\Hatalar-Expr10\Hatalar-Expr10\bin\Debug\Hatalar-Expr10.exe
+C:\Users\mertc\source\repos\Hatalar-Expr10\Hatalar-Expr10\bin\Debug\Hatalar-Expr10.pdb
+C:\Users\mertc\source\repos\Hatalar-Expr10\Hatalar-Expr10\obj\Debug\Hatalar-Expr10.csprojResolveAssemblyReference.cache
+C:\Users\mertc\source\repos\Hatalar-Expr10\Hatalar-Expr10\obj\Debug\Hatalar-Expr10.csproj.CoreCompileInputs.cache
+C:\Users\mertc\source\repos\Hatalar-Expr10\Hatalar-Expr10\obj\Debug\Hatalar-Expr10.exe
+C:\Users\mertc\source\repos\Hatalar-Expr10\Hatalar-Expr10\obj\Debug\Hatalar-Expr10.pdb
