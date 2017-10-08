@@ -1,0 +1,6 @@
+C:\Users\mertc\source\repos\Loops2-2\Loops2-2\bin\Debug\Loops2-2.exe.config
+C:\Users\mertc\source\repos\Loops2-2\Loops2-2\bin\Debug\Loops2-2.exe
+C:\Users\mertc\source\repos\Loops2-2\Loops2-2\bin\Debug\Loops2-2.pdb
+C:\Users\mertc\source\repos\Loops2-2\Loops2-2\obj\Debug\Loops2-2.csproj.CoreCompileInputs.cache
+C:\Users\mertc\source\repos\Loops2-2\Loops2-2\obj\Debug\Loops2-2.exe
+C:\Users\mertc\source\repos\Loops2-2\Loops2-2\obj\Debug\Loops2-2.pdb
