@@ -1,0 +1,7 @@
+C:\Users\mertc\source\repos\Hatalar-Exp12\Hatalar-Exp12\bin\Debug\Hatalar-Exp12.exe.config
+C:\Users\mertc\source\repos\Hatalar-Exp12\Hatalar-Exp12\bin\Debug\Hatalar-Exp12.exe
+C:\Users\mertc\source\repos\Hatalar-Exp12\Hatalar-Exp12\bin\Debug\Hatalar-Exp12.pdb
+C:\Users\mertc\source\repos\Hatalar-Exp12\Hatalar-Exp12\obj\Debug\Hatalar-Exp12.csprojResolveAssemblyReference.cache
+C:\Users\mertc\source\repos\Hatalar-Exp12\Hatalar-Exp12\obj\Debug\Hatalar-Exp12.csproj.CoreCompileInputs.cache
+C:\Users\mertc\source\repos\Hatalar-Exp12\Hatalar-Exp12\obj\Debug\Hatalar-Exp12.exe
+C:\Users\mertc\source\repos\Hatalar-Exp12\Hatalar-Exp12\obj\Debug\Hatalar-Exp12.pdb
