@@ -1,0 +1,7 @@
+C:\Users\mertc\source\repos\рекурсивные алг\Erudite\bin\Debug\denemovski.exe.config
+C:\Users\mertc\source\repos\рекурсивные алг\Erudite\bin\Debug\denemovski.exe
+C:\Users\mertc\source\repos\рекурсивные алг\Erudite\bin\Debug\denemovski.pdb
+C:\Users\mertc\source\repos\рекурсивные алг\Erudite\obj\Debug\Erudite.csprojResolveAssemblyReference.cache
+C:\Users\mertc\source\repos\рекурсивные алг\Erudite\obj\Debug\Erudite.csproj.CoreCompileInputs.cache
+C:\Users\mertc\source\repos\рекурсивные алг\Erudite\obj\Debug\denemovski.exe
+C:\Users\mertc\source\repos\рекурсивные алг\Erudite\obj\Debug\denemovski.pdb

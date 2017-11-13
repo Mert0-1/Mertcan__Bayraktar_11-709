@@ -1,0 +1,7 @@
+c:\users\mertc\source\repos\Rec3\bin\Debug\Rec3.exe.config
+c:\users\mertc\source\repos\Rec3\bin\Debug\Rec3.exe
+c:\users\mertc\source\repos\Rec3\bin\Debug\Rec3.pdb
+c:\users\mertc\source\repos\Rec3\obj\Debug\Rec3.csprojResolveAssemblyReference.cache
+c:\users\mertc\source\repos\Rec3\obj\Debug\Rec3.csproj.CoreCompileInputs.cache
+c:\users\mertc\source\repos\Rec3\obj\Debug\Rec3.exe
+c:\users\mertc\source\repos\Rec3\obj\Debug\Rec3.pdb

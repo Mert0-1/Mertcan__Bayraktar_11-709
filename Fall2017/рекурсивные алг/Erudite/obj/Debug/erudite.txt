@@ -1,0 +1,7 @@
+c:\users\mertc\source\repos\denemovski\bin\Debug\denemovski.exe.config
+c:\users\mertc\source\repos\denemovski\bin\Debug\denemovski.exe
+c:\users\mertc\source\repos\denemovski\bin\Debug\denemovski.pdb
+c:\users\mertc\source\repos\denemovski\obj\Debug\denemovski.csprojResolveAssemblyReference.cache
+c:\users\mertc\source\repos\denemovski\obj\Debug\denemovski.csproj.CoreCompileInputs.cache
+c:\users\mertc\source\repos\denemovski\obj\Debug\denemovski.exe
+c:\users\mertc\source\repos\denemovski\obj\Debug\denemovski.pdb
