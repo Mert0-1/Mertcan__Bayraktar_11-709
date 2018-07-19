@@ -18,7 +18,6 @@ namespace Server
     {
         const int PORT_NO = 5000;
         const string SERVER_IP = "127.0.0.1";
-
         static void Main(string[] args)
         {
             StreamWriter sw = new StreamWriter(@"c:\poker\vote.txt");
@@ -80,11 +79,9 @@ namespace Server
                                         Console.WriteLine("Voting Is Succeed");
                                     }
                                 }
-                            }
-                        
+                            }    
                         }
-                    }                    
-                                          
+                    }                                                              
                 }              
             }
         }
