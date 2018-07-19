@@ -23,16 +23,12 @@ namespace Client
         static void Main(string[] args)
         {
             const int PORT_NO = 5000;
-            const string SERVER_IP = "127.0.0.1";
-
-            
+            const string SERVER_IP = "127.0.0.1";            
             {
                 while (true)
-                {
-                                    
+                {                                    
                     Counter Usercounter = new Counter();
-
-                    while (Counter.UserCounter< 4)
+                    while (Counter.UserCounter< 4)   //made usercounter just to vote from one console
                     {                        
                         //---create a TCPClient object at the IP and port no.---
                         TcpClient client = new TcpClient(SERVER_IP, PORT_NO);                       
@@ -55,9 +51,8 @@ namespace Client
                 }
             }
         }
-
-        }
     }
+}
 
      
     
